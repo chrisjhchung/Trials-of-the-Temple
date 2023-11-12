@@ -3,6 +3,8 @@ CFLAGS=-Wall
 TARGET=./bin/mayTheForceBeWithYou
 SOURCE=mayTheForceBeWithYou.c 
 
+.SILENT:
+
 .PHONY: all test clean
 
 all: $(TARGET)
