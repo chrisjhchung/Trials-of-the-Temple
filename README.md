@@ -1,6 +1,6 @@
 # Trials of the Temple
 
-![image](https://github.com/chrisjhchung/Trials-of-the-Temple/assets/37494613/22ba24ec-6358-4171-96c8-7830b5c5c000)
+<img src="https://github.com/chrisjhchung/Trials-of-the-Temple/assets/37494613/22ba24ec-6358-4171-96c8-7830b5c5c000" width="500" height="500">
 
 ## Introduction
 
